@@ -1,7 +1,7 @@
 ## Introducing Myself - <Really need a nickname but I don't have one yet>
 ### Hello World!
 
-<div class="tenor-gif-embed" data-postid="16615272" data-share-method="host" data-aspect-ratio="1.30081" data-width="100%"><a href="https://tenor.com/view/pusheen-kitty-kitten-pussy-cat-cat-gif-16615272">Pusheen Kitty Sticker</a>from <a href="https://tenor.com/search/pusheen-stickers">Pusheen Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/search/pusheen-stickers">Pusheen Stickers</a></div>
 
 Xin chào, I'm Nguyen Kim Anh, a data analysis in the future, cause now i still an undergraduate student of Vietnam National University of Ho Chi Minh City - University of Science. I'm also dabbling a bit in Python, C++, SQL. 
 
