@@ -1,9 +1,11 @@
 ## Introducing Myself - <Really need a nickname but I don't have one yet>
-### Hello World!
+### Hello World! Xin chào!
 
-<a href="https://tenor.com/search/pusheen-stickers">Pusheen Stickers</a></div>
+Nguyen Kim Anh
 
-Xin chào, I'm Nguyen Kim Anh, a data analysis in the future, cause now i still an undergraduate student of Vietnam National University of Ho Chi Minh City - University of Science. I'm also dabbling a bit in Python, C++, SQL. 
+Undergraduate student at Vietnam National University of Ho Chi Minh City - University of Science (VNUHCM-US), pursuing a future in data analysis.
+
+Currently building my skills in Python, C++, and SQL.  Passionate about leveraging data to solve real-world problems.
 
 <p align="center">
 <table>
