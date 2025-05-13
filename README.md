@@ -1,6 +1,6 @@
 <!-- Header với animation Pusheen -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE4b3d4bHZ0N3F2eGc0a3l1bXZ4d3E2cGNjMGd6dTZ5N3J0bG5ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdsYnJqM2QzZTN6dGEzbXZrZDh4YWRwNjlycmlnMDc1eHpoOGFsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif" width="200">
   <h1 align="center">✨ Xin chào! I'm Kim Anh ✨</h1>
   <h3 align="center">Data Science Enthusiast | Python & SQL Developer</h3>
 </p>
