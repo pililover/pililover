@@ -45,3 +45,10 @@ class KimAnh:
         
 me = KimAnh()
 me.say_hi()
+
+📈 GitHub Stats
+<!-- Thống kê GitHub --><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"> </p>
+🌱 I'm Currently Learning
+<!-- Các công nghệ đang học --><p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </p>
+📫 Let's Connect!
+<p align="center"> <!-- Thêm các link mạng xã hội của bạn --> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FB_LINK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK) </p><!-- Footer với Pusheen --><p align="center"> <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="150"> <br> <i>Happy coding! 😻</i> </p> ```
