@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
-<!-- Thông tin cá nhân dạng table -->
+<!-- Thông tin cá nhân-->
 <div align="center">
   
 | 🏫 **Education**      | 📍 **Location**       |
@@ -79,6 +79,7 @@ me.deliver_insights()
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009643428281)
 </p>
 
-<!-- Footer với Pusheen --><p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5ajhhZmUwZmtibDlqd2U3aHQ5NzVuNXYzYXc3Y2hiNXJndTd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz9HajYGviQeI/giphy.gif" width="150"> <br> <i>Data tells stories - Let's decode them together! 🐾</i> </p>
+<!-- Footer với Pusheen -->
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5ajhhZmUwZmtibDlqd2U3aHQ5NzVuNXYzYXc3Y2hiNXJndTd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz9HajYGviQeI/giphy.gif" width="150"> <br> <i>Data tells stories - Let's decode them together! 🐾</i> </p>
 
-<!-- Footer với Pusheen --><p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5sdnRlOXZhcGxwM2o1Z2FtOThpemZqbnc1dHlzbXRsd3p1Z3BlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="150"> <br> <i>Happy coding! 😻</i> </p> ```
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5sdnRlOXZhcGxwM2o1Z2FtOThpemZqbnc1dHlzbXRsd3p1Z3BlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="150"> <br> <i>Happy coding! 😻</i> </p>
