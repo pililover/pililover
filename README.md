@@ -1,43 +1,47 @@
-## Introducing Myself - <Really need a nickname but I don't have one yet>
-### Hello World! Xin chào!
-
-Nguyen Kim Anh
-
-Undergraduate student at Vietnam National University of Ho Chi Minh City - University of Science (VNUHCM-US), pursuing a future in data analysis.
-
-Currently building my skills in Python, C++, and SQL.  Passionate about leveraging data to solve real-world problems.
-
+<!-- Header với animation Pusheen -->
 <p align="center">
-<table>
-    <tr>
-      <th>Attributes</th>
-      <th>Value</th>
-    </tr>
-    <tr>
-      <td> Name</td>
-        <td>Nguyen Kim Anh</td>
-    </tr>
-    <tr>
-      <td> DOB</td>
-        <td> Aug 31th, 2004 (21)</td>
-    </tr>
-    <tr>
-      <td> Hometown</td>
-        <td> Can Tho City, Vietnam</td>
-    </tr>
-    <tr>
-      <td> Major</td>
-        <td> Data Science</td>
-    </tr>
-    <tr>
-      <td> University</td>
-        <td> Vietnam National University of Ho Chi Minh City - University of Science</td>
-    </tr>
-    <tr>
-      <td> Contact</td>
-        <td>
-        <ul>
-        <li> Social Media:
-        <a href="">Facebook</a></li>
-        <li> Email: <a href="mailto:
-    </tr>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE4b3d4bHZ0N3F2eGc0a3l1bXZ4d3E2cGNjMGd6dTZ5N3J0bG5ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif" width="200">
+  <h1 align="center">✨ Xin chào! I'm Kim Anh ✨</h1>
+  <h3 align="center">Data Science Enthusiast | Python & SQL Developer</h3>
+</p>
+
+<!-- Giới thiệu bằng icons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+
+<!-- Thông tin cá nhân dạng table -->
+<div align="center">
+  
+| 🏫 **Education**      | 📍 **Location**       |
+|-----------------------|-----------------------|
+| VNUHCM - University of Science | Can Tho -> HCMC, Vietnam |
+  
+| 🎂 **Birthday**       | 📧 **Contact**        |
+|-----------------------|-----------------------|
+| August 31, 2004       | [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) |
+
+</div>
+
+---
+
+### 👩‍💻 About Me
+```python
+class KimAnh:
+    def __init__(self):
+        self.name = "Nguyen Kim Anh"
+        self.pronouns = "she/her"
+        self.education = "B.S. in Data Science @ VNUHCM-US"
+        self.interests = [
+            "Data Analysis", 
+            "Machine Learning",
+            "Database Systems"
+        ]
+    
+    def say_hi(self):
+        print("Let's turn data into insights together! 💡")
+        
+me = KimAnh()
+me.say_hi()
