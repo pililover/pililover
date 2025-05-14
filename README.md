@@ -75,9 +75,13 @@ me.deliver_insights()
 
 📫 Let's Connect!
 
-<p align="center">
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009643428281)
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009643428281)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nkanh22@clc.fitus.edu.vn)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pililover)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@pililover/)
 
 <!-- Footer với Pusheen -->
 <p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5ajhhZmUwZmtibDlqd2U3aHQ5NzVuNXYzYXc3Y2hiNXJndTd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz9HajYGviQeI/giphy.gif" width="150"> <br> <i>Data tells stories - Let's decode them together! 🐾</i> </p>
