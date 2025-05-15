@@ -28,14 +28,29 @@
 ### 🔍 Data Toolkit
 <p align="center">
   <img src="https://img.shields.io/badge/Data Analysis-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Data Preprocessing-4CAF50?style=for-the-badge&logo=databricks&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Web Scraping-FFA000?style=for-the-badge&logo=web-scraper&logoColor=white">
-  <img src="https://img.shields.io/badge/Data Cleaning-4CAF50?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/ML Modeling-FF6D70?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
+### 🔥 Acquired Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+</p>
 
 ### 👩‍💻 Data Journey
 ```python
@@ -44,7 +59,7 @@ class DataScientist:
         self.name = "Nguyen Kim Anh"
         self.focus = "Turning raw data into actionable insights"
         self.skills = {
-            'Data Preparation': ['Web Scraping', 'Data Preprocessing', 'Data Cleaning', 'Feature Engineering'],
+            'Data Preparation': ['Web Scraping', 'Data Preprocessing', 'Feature Engineering'],
             'Analysis': ['Statistical Analysis', 'Predictive Modeling', 'Trend Identification', 'Useful Insights'],
             'Visualization': ['Tableau', 'PowerBI'],
             'Tools': ['Python', 'SQL']
@@ -60,7 +75,7 @@ me.deliver_insights()
 ---
 
 🌱 I'm Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <br> <small>(For Electronic Commerce Project)</small> </p>
+<p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <br> <small>(For Electronic Commerce Project)</small> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Data Visualization-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white"> <br> <small>(Building dashboard interfaces and data presentation skills)</small> </p>
 
