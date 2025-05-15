@@ -44,10 +44,10 @@ class DataAnalyst:
         self.name = "Nguyen Kim Anh"
         self.focus = "Turning raw data into actionable insights"
         self.skills = {
-            'Data Preparation': ['Web Scraping', 'Data Cleaning', 'Feature Engineering'],
-            'Analysis': ['Statistical Analysis', 'Predictive Modeling', 'Trend Identification'],
-            'Visualization': ['Tableau', 'PowerBI', 'Matplotlib'],
-            'Tools': ['Python', 'SQL', 'Jupyter Notebook']
+            'Data Preparation': ['Web Scraping', 'Data Preprocessing', 'Data Cleaning', 'Feature Engineering'],
+            'Analysis': ['Statistical Analysis', 'Predictive Modeling', 'Trend Identification', 'Useful Insights'],
+            'Visualization': ['Tableau', 'PowerBI'],
+            'Tools': ['Python', 'SQL']
         }
     
     def deliver_insights(self):
