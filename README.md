@@ -39,7 +39,7 @@
 
 ### 👩‍💻 Data Journey
 ```python
-class DataAnalyst:
+class DataScientist:
     def __init__(self):
         self.name = "Nguyen Kim Anh"
         self.focus = "Turning raw data into actionable insights"
@@ -53,7 +53,7 @@ class DataAnalyst:
     def deliver_insights(self):
         print("From messy data to clear decisions! 📊➡️💡")
         
-me = DataAnalyst()
+me = DataScientist()
 me.deliver_insights()
 ```
 
