@@ -60,9 +60,25 @@ class DataScientist:
         self.focus = "Turning raw data into actionable insights"
         self.skills = {
             'Data Preparation': ['Web Scraping', 'Data Preprocessing', 'Feature Engineering'],
-            'Analysis': ['Statistical Analysis', 'Predictive Modeling', 'Trend Identification', 'Useful Insights'],
-            'Visualization': ['Tableau', 'PowerBI'],
-            'Tools': ['Python', 'SQL']
+            'Analysis': [
+                'Statistical Analysis', 
+                'Predictive Modeling', 
+                'Trend Identification', 
+                'Insight Generation', 
+                'Actionable Recommendation'],
+            'Visualization': ['Interactive Dashboard', 'Storytelling'],
+            'Analysis Tools': ['Python', 'SQL', 'Excel', 'Tableau', 'PowerBI'],
+            'ML Pipeline': [
+                'Model Development (Classification/Regression)',
+                'Hyperparameter Tuning',
+                'Model Deployment'
+            ],
+            'NLP Toolkit': [
+                'Transformer Models',
+                'Text Preprocessing',
+                'Sentiment Analysis',
+                'Summarization'
+            ],
         }
     
     def deliver_insights(self):
