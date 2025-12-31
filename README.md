@@ -104,7 +104,7 @@ me.deliver_insights()
 
 <!-- <p align='center'> <img src="https://github-readme-streak-stats.herokuapp.com?user=pililover&theme=tokyonight"/></p>  -->
 <!-- <p align='center'> <img src="https://github-readme-streak-stats.herokuapp.com?user=pililover&theme=tokyonight"/></p>  -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pililover)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pililover&theme=merko" alt="GitHub Streak" /></a>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pililover&theme=radical"> </p> -->
 
