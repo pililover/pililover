@@ -102,9 +102,10 @@ me.deliver_insights()
 <!-- Thống kê GitHub -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pililover&show_icons=true&theme=radical"> </p>
 
+<p align='center'> <img src="https://streak-stats.demolab.com?user=pililover&theme=merko"/></p>
 <!-- <p align='center'> <img src="https://github-readme-streak-stats.herokuapp.com?user=pililover&theme=tokyonight"/></p>  -->
-<!-- <p align='center'> <img src="https://github-readme-streak-stats.herokuapp.com?user=pililover&theme=tokyonight"/></p>  -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pililover&theme=merko" alt="GitHub Streak" /></a>
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pililover&theme=merko" alt="GitHub Streak" /></a> -->
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pililover&theme=radical"> </p> -->
 
