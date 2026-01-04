@@ -98,18 +98,18 @@ me.deliver_insights()
 <p align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <br> <small>(For ML)</small> </p>
 
 
-📈 GitHub Stats
+<!--📈 GitHub Stats -->
 <!-- Thống kê GitHub -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pililover&show_icons=true&theme=radical"> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pililover&show_icons=true"> </p>-->
 
-<p align='center'> <img src="https://streak-stats.demolab.com?user=pililover&theme=merko"/></p>
+<!-- <p align='center'> <img src="https://streak-stats.demolab.com?user=pililover&theme=merko"/></p>-->
 <!-- <p align='center'> <img src="https://github-readme-streak-stats.herokuapp.com?user=pililover&theme=tokyonight"/></p>  -->
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pililover&theme=merko" alt="GitHub Streak" /></a> -->
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pililover&theme=radical"> </p> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pililover&layout=compact&theme=merko&hide=javascript,html"> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pililover&layout=compact&theme=merko&hide=javascript,html"> </p>-->
 
 
 📫 Let's Connect!
