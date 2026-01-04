@@ -21,7 +21,7 @@
   
 | 🎂 **Birthday**       | 📧 **Contact**        |
 |-----------------------|-----------------------|
-| August 31, 2004       | [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nkanh22@clc.fitus.edu.vn) |
+| August 31       | [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nkanh22@clc.fitus.edu.vn) |
 
 </div>
 
